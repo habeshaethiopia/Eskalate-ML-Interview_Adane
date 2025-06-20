@@ -17,7 +17,7 @@ The project addresses four key objectives:
 
 ## Repository Contents
 
-- **Eskalate_ML_Interview_[YourName].ipynb**: The main Google Colab notebook containing all code, Markdown explanations, and interactive visualizations.
+- [**Eskalate_ML_Data_Science_Interview_Adane.ipynb**](./Eskalate_ML_Data_Science_Interview_Adane.ipynb): The main Google Colab notebook containing all code, Markdown explanations, and interactive visualizations.
 - **README.md**: This file, providing project overview and instructions.
 
 ## Datasets
